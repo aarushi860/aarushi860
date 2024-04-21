@@ -1,12 +1,12 @@
 # Hey there! :wave:
 
-*I'm Aarushi Maheshwari, :blush:  a senior backend software engineer from India , mainly experienced working with startups.*
+*I'm Aarushi Maheshwari, :blush:  a senior backend software engineer from India ,  experienced working with startups.*
 
 
 I love working on complex problems and learning new technologies.
 
 
-My experience includes working with below technologies:
+I'm experienced working on:
 
 -Programming Languages : Scala, Java
 
@@ -18,5 +18,9 @@ My experience includes working with below technologies:
 
 -PubSub : Kafka, KafkaStreams, KSQLDB
 
+- APIs- REST , GRPC
 
-I'm always open to new opportunities and challenges , so feel free to reach out to me at my email - aarushi860@gmail.com
+- Serialization Formats - Avro , Json, Protobuf
+
+
+I love to work on challenging stuff , free to reach out to me at my email - aarushi860@gmail.com
