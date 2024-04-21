@@ -6,7 +6,7 @@
 I love working on complex problems and learning new technologies.
 
 
-My current tech stack includes :
+My experience includes working with below technologies:
 
 -Programming Languages : Scala, Java
 
