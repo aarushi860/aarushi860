@@ -17,4 +17,4 @@ I'm experienced working on:
  - Serialization Formats - Avro , Json, Protobuf
 
 
-I love to work on challenging stuff , free to reach out to me at my email - aarushi860@gmail.com
+I love to work on challenging stuff , feel free to reach out to me at my email - aarushi860@gmail.com
