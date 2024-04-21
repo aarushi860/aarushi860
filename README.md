@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hey there! :wave:
 
-<!--
-**aarushi860/aarushi860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I'm Aarushi Maheshwari, :blush:  a senior backend software engineer from India , mainly experienced worked with startups.*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love working on complex problems and learning new technologies , which layer by layer helps me to build a strong foundation in software engineering.
+
+
+My current tech stack includes :
+
+-Programming Languages : Scala, Java
+
+-Frameworks : Akka
+
+-Databases : MySQL, Postgres, MongoDB
+
+-Tools : Git, Docker, Jenkins
+
+-PubSub : Kafka, KafkaStreams, KSQLDB
+
+
+I'm always open to new opportunities and challenges , so feel free to reach out to me at my email - aarushi860@gmail.com
