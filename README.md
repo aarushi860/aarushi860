@@ -1,9 +1,9 @@
-## Hey there! :wave:
+# Hey there! :wave:
 
-*I'm Aarushi Maheshwari, :blush:  a senior backend software engineer from India , mainly experienced worked with startups.*
+*I'm Aarushi Maheshwari, :blush:  a senior backend software engineer from India , mainly experienced working with startups.*
 
 
-I love working on complex problems and learning new technologies , which layer by layer helps me to build a strong foundation in software engineering.
+I love working on complex problems and learning new technologies.
 
 
 My current tech stack includes :
